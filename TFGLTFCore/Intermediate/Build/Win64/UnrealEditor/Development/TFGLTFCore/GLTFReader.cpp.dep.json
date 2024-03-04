@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\private\\tfgltf\\gltfreader.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\tf\\gltfcustom\\intermediate\\build\\win64\\gltfcustomeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfcore\\definitions.tfgltfcore.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfreader.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltflogger.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfasset.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfanimation.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfmaterial.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfmesh.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfaccessor.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfextras.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfnode.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltftexture.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\private\\tfgltf\\conversionutilities.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\private\\tfgltf\\extensionshandler.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\private\\tfgltf\\gltfbinaryreader.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\private\\tfgltf\\jsonutilities.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\private\\tfgltf\\materialutilities.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

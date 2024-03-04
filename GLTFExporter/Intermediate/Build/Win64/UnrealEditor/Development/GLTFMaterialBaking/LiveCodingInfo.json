@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GLTFMaterialBaking.cpp.obj": [
+			"GLTFMaterialBakingHelpers.cpp.obj",
+			"GLTFMaterialBakingModule.cpp.obj",
+			"GLTFMaterialPropertyEx.cpp.obj",
+			"MaterialRenderItem.cpp.obj",
+			"MaterialRenderItemData.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TFGLTFCore.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\GLBUtil\Intermediate\Build\Win64\GLBUtilEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Projects\GLBUtil\Plugins\TFGLTFCore\Intermediate\Build\Win64\UnrealEditor\Development\TFGLTFCore\Module.TFGLTFCore.cpp.obj"
+"C:\Projects\GLBUtil\Plugins\TFGLTFCore\Intermediate\Build\Win64\UnrealEditor\Development\TFGLTFCore\Default.rc2.res"
+/OUT:"C:\Projects\GLBUtil\Plugins\TFGLTFCore\Intermediate\Build\Win64\UnrealEditor\Development\TFGLTFCore\UnrealEditor-TFGLTFCore.lib"

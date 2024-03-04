@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GLTFMaterialBaking.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\TF\GLTFCustom\Intermediate\Build\Win64\GLTFCustomEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFMaterialBaking\Module.GLTFMaterialBaking.cpp.obj"
+"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFMaterialBaking\Default.rc2.res"
+/OUT:"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFMaterialBaking\UnrealEditor-GLTFMaterialBaking.lib"

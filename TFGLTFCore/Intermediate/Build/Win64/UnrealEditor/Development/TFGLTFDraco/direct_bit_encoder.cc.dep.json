@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\compression\\bit_coders\\direct_bit_encoder.cc",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\glbutil\\intermediate\\build\\win64\\glbutileditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfdraco\\definitions.tfgltfdraco.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\compression\\bit_coders\\direct_bit_encoder.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\encoder_buffer.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\bit_utils.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\inttypes.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\macros.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\cassert",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\assert.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\draco_features.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

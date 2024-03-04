@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfexporter\\uht\\gltfexporter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\tf\\gltfcustom\\intermediate\\build\\win64\\gltfcustomeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\development\\gltfexporter\\definitions.gltfexporter.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\source\\gltfexporter\\public\\exporters\\gltfexporter.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\exporters\\exporter.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\exporter.generated.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfexporter\\uht\\gltfexporter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

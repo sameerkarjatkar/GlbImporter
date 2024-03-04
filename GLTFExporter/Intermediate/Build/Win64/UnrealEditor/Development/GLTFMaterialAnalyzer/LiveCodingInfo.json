@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GLTFMaterialAnalyzer.cpp.obj": [
+			"GLTFMaterialAnalyzer.gen.cpp.obj",
+			"GLTFMaterialAnalyzer.init.gen.cpp.obj",
+			"GLTFMaterialAnalyzer.cpp.obj",
+			"GLTFMaterialAnalyzerModule.cpp.obj"
+		]
+	}
+}

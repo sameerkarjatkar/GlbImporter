@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\material\\material_utils.cc",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\glbutil\\intermediate\\build\\win64\\glbutileditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfdraco\\definitions.tfgltfdraco.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

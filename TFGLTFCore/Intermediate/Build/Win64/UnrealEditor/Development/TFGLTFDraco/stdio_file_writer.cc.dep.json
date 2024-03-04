@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\stdio_file_writer.cc",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\glbutil\\intermediate\\build\\win64\\glbutileditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfdraco\\definitions.tfgltfdraco.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\stdio_file_writer.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\string",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\file_writer_interface.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\draco_features.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\file_writer_factory.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\file_writer_utils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

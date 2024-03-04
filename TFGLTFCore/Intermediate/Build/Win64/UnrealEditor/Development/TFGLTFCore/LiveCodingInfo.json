@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TFGLTFCore.cpp.obj": [
+			"GLTFMapFactory.cpp.obj",
+			"GLTFMaterialExpressions.cpp.obj",
+			"GLTFMaterialFactory.cpp.obj",
+			"GLTFMeshFactory.cpp.obj",
+			"TFGLTFCore.cpp.obj",
+			"ExtensionsHandler.cpp.obj",
+			"GLTFAccessor.cpp.obj",
+			"GLTFAsset.cpp.obj",
+			"GLTFBinaryReader.cpp.obj",
+			"GLTFMaterial.cpp.obj",
+			"GLTFMesh.cpp.obj",
+			"GLTFReader.cpp.obj",
+			"GLTFTexture.cpp.obj"
+		]
+	}
+}

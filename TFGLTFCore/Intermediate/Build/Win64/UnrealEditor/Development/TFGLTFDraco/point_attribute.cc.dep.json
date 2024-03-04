@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\attributes\\point_attribute.cc",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\glbutil\\intermediate\\build\\win64\\glbutileditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfdraco\\definitions.tfgltfdraco.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\attributes\\point_attribute.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\attributes\\attribute_transform_data.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\attributes\\attribute_transform_type.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\data_buffer.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\draco_types.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\string",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\draco_features.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\attributes\\geometry_attribute.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\array",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\attributes\\geometry_indices.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\inttypes.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\draco_index_type.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\hash_utils.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\status.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\draco_index_type_vector.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\macros.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\cassert",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\assert.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

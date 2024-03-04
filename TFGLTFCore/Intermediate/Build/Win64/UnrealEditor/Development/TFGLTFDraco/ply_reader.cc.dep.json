@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\ply_reader.cc",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\glbutil\\intermediate\\build\\win64\\glbutileditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfdraco\\definitions.tfgltfdraco.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\ply_reader.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\map",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\xtree",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\decoder_buffer.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\macros.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\cassert",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\assert.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\draco_features.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\draco_types.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\string",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\status.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\status_or.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\array",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\regex",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\locale",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\xlocbuf",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\xlocmes",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\xlocmon",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\xloctime",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\parser_utils.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\ply_property_writer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

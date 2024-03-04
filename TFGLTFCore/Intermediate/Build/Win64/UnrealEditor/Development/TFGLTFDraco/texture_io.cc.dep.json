@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\texture_io.cc",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\glbutil\\intermediate\\build\\win64\\glbutileditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfdraco\\definitions.tfgltfdraco.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\texture_io.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\draco_features.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\draco_types.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\string",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\status_or.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\macros.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\cassert",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\assert.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\core\\status.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\texture\\texture.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\image_compression_options.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\texture\\source_image.h",
+            "c:\\projects\\glbutil\\plugins\\tfgltfcore\\source\\tfgltfdraco\\io\\file_utils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

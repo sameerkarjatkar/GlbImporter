@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ExtrasCustomProperty.cpp.obj": [
+			"CustomProperty.gen.cpp.obj",
+			"ExtrasCustomProperty.init.gen.cpp.obj",
+			"CustomProperty.cpp.obj",
+			"ExtrasCustomProperty.cpp.obj"
+		]
+	}
+}

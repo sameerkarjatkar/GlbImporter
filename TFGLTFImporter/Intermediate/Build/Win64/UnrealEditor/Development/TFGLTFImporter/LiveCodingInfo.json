@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TFGLTFImporter.cpp.obj": [
+			"TFGLTFImporter.init.gen.cpp.obj",
+			"BlueprintCreationFactory.cpp.obj",
+			"GLTFImporterContext.cpp.obj",
+			"GLTFImporterModule.cpp.obj",
+			"GLTFImportFactory.cpp.obj",
+			"GLTFImportOptions.cpp.obj",
+			"GLTFMaterialElement.cpp.obj",
+			"GLTFStaticMeshFactory.cpp.obj",
+			"GLTFTextureFactory.cpp.obj",
+			"BlueprintExportOptions.cpp.obj",
+			"BlueprintExportWindow.cpp.obj",
+			"GLTFOptionsWindow.cpp.obj",
+			"TFGLTFImporterCommands.cpp.obj",
+			"TFGLTFImporterStyle.cpp.obj",
+			"TFGLTFUtils.cpp.obj"
+		]
+	}
+}

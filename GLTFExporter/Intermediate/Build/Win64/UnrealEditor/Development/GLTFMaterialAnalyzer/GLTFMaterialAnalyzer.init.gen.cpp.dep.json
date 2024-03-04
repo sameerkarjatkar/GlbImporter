@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfmaterialanalyzer\\uht\\gltfmaterialanalyzer.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\tf\\gltfcustom\\intermediate\\build\\win64\\gltfcustomeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\development\\gltfmaterialanalyzer\\definitions.gltfmaterialanalyzer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

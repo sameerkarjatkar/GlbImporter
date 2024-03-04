@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TFGLTFImporter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\GLBUtil\Intermediate\Build\Win64\GLBUtilEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Projects\GLBUtil\Plugins\TFGLTFImporter\Intermediate\Build\Win64\UnrealEditor\Development\TFGLTFImporter\Module.TFGLTFImporter.cpp.obj"
+"C:\Projects\GLBUtil\Plugins\TFGLTFImporter\Intermediate\Build\Win64\UnrealEditor\Development\TFGLTFImporter\Default.rc2.res"
+/OUT:"C:\Projects\GLBUtil\Plugins\TFGLTFImporter\Intermediate\Build\Win64\UnrealEditor\Development\TFGLTFImporter\UnrealEditor-TFGLTFImporter.lib"

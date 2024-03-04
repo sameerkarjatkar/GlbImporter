@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\tf\\gltfcustom\\plugins\\extrascustomproperty\\intermediate\\build\\win64\\unrealeditor\\inc\\extrascustomproperty\\uht\\extrascustomproperty.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\tf\\gltfcustom\\intermediate\\build\\win64\\gltfcustomeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\tf\\gltfcustom\\plugins\\extrascustomproperty\\intermediate\\build\\win64\\unrealeditor\\development\\extrascustomproperty\\definitions.extrascustomproperty.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

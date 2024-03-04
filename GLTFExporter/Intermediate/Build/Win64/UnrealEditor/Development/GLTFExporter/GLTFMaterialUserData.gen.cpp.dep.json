@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfexporter\\uht\\gltfmaterialuserdata.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\tf\\gltfcustom\\intermediate\\build\\win64\\gltfcustomeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\development\\gltfexporter\\definitions.gltfexporter.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\source\\gltfexporter\\public\\userdata\\gltfmaterialuserdata.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\gltfexporter\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfexporter\\uht\\gltfmaterialuserdata.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

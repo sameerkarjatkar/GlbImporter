@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"TFGLTFCore": "UnrealEditor-TFGLTFCore.dll",
+		"TFGLTFDraco": "UnrealEditor-TFGLTFDraco.dll"
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GLTFExporter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\TF\GLTFCustom\Intermediate\Build\Win64\GLTFCustomEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFExporter\Module.GLTFExporter.cpp.obj"
+"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFExporter\GLTFBlueprintExporter.gen.cpp.obj"
+"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFExporter\Default.rc2.res"
+/OUT:"C:\Projects\TF\GLTFCustom\Plugins\GLTFExporter\Intermediate\Build\Win64\UnrealEditor\Development\GLTFExporter\UnrealEditor-GLTFExporter.lib"

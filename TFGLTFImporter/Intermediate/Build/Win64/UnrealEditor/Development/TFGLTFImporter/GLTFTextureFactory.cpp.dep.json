@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfimporter\\source\\tfgltfimporter\\private\\gltftexturefactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projects\\tf\\gltfcustom\\intermediate\\build\\win64\\gltfcustomeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfimporter\\intermediate\\build\\win64\\unrealeditor\\development\\tfgltfimporter\\definitions.tfgltfimporter.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfimporter\\source\\tfgltfimporter\\private\\gltftexturefactory.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltflogger.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfmaterialfactory.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfmaterial.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\json\\public\\dom\\jsonobject.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\json\\public\\dom\\jsonvalue.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\json\\public\\jsonglobals.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfimporter\\source\\tfgltfimporter\\private\\gltfmaterialelement.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfmaterialexpressions.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltfextras.h",
+            "c:\\projects\\tf\\gltfcustom\\plugins\\tfgltfcore\\source\\tfgltfcore\\public\\gltftexture.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\editorframework\\assetimportdata.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetimportdata.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\classes\\factories\\texturefactory.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\classes\\factories\\importsettings.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\texturefactory.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\objecttools.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\collectionmanager\\public\\collectionmanagertypes.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\packagetools.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\packagetools.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

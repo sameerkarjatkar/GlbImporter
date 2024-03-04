@@ -1,0 +1,5 @@
+./Content/*
+[Bb]inaries/*
+[Ii]ntermediate/*
+[Ss]aved
+./.vs
